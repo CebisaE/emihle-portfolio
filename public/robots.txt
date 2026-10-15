@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emihle-cebisa.netlify.app/sitemap.xml
